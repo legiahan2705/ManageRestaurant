@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92EC07B7-57E8-4749-A335-8D119020B172}|..\\TO\\TO.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\to\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\restaurantmanagement\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|solutionrelative:editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\restaurantmanagement\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\restaurantmanagement\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714710E-105C-44E4-8184-144BAA4C2B28}|..\\BL\\BL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\bl\\bl_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714710E-105C-44E4-8184-144BAA4C2B28}|..\\BL\\BL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\bl\\bl_deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714710E-105C-44E4-8184-144BAA4C2B28}|..\\BL\\BL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\bl\\bl_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714710E-105C-44E4-8184-144BAA4C2B28}|..\\BL\\BL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\bl\\bl_checkuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C714710E-105C-44E4-8184-144BAA4C2B28}|..\\BL\\BL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\bl\\bl_employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E472EE-D075-43B8-9370-A61484B3B987}|..\\DL\\DL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\dl\\dl_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|solutionrelative:editemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E472EE-D075-43B8-9370-A61484B3B987}|..\\DL\\DL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\dl\\dl_getemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\restaurantmanagement\\addemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49DCA4E7-DBF6-4922-8325-3C2BA850778D}|RestaurantManagement.csproj|solutionrelative:addemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E472EE-D075-43B8-9370-A61484B3B987}|..\\DL\\DL.csproj|d:\\ltcsdl\\restaurantmanagement\\ltcsdl_restaurantmanagement\\dl\\dl_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\TO\\Employees.cs",
+              "RelativeDocumentMoniker": "..\\TO\\Employees.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\TO\\Employees.cs",
+              "RelativeToolTip": "..\\TO\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:16:30.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\DangNhap.cs",
+              "RelativeToolTip": "DangNhap.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:15:06.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:15:03.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BL_Edit.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_Edit.cs",
+              "RelativeDocumentMoniker": "..\\BL\\BL_Edit.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_Edit.cs",
+              "RelativeToolTip": "..\\BL\\BL_Edit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:14:21.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BL_DeleteEmployee.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_DeleteEmployee.cs",
+              "RelativeDocumentMoniker": "..\\BL\\BL_DeleteEmployee.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_DeleteEmployee.cs",
+              "RelativeToolTip": "..\\BL\\BL_DeleteEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:13:51.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BL_CheckUser.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_CheckUser.cs",
+              "RelativeDocumentMoniker": "..\\BL\\BL_CheckUser.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_CheckUser.cs",
+              "RelativeToolTip": "..\\BL\\BL_CheckUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:12:10.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BL_Employees.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_Employees.cs",
+              "RelativeDocumentMoniker": "..\\BL\\BL_Employees.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_Employees.cs",
+              "RelativeToolTip": "..\\BL\\BL_Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:57:42.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwMAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T08:58:24.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditEmployee.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\EditEmployee.cs",
+              "RelativeDocumentMoniker": "EditEmployee.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\EditEmployee.cs",
+              "RelativeToolTip": "EditEmployee.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:42:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DL_Edit.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\DL\\DL_Edit.cs",
+              "RelativeDocumentMoniker": "..\\DL\\DL_Edit.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\DL\\DL_Edit.cs",
+              "RelativeToolTip": "..\\DL\\DL_Edit.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T10:10:45.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\EditEmployee.cs",
+              "RelativeDocumentMoniker": "EditEmployee.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\EditEmployee.cs [Design]",
+              "RelativeToolTip": "EditEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:52:20.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEmployees.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\AddEmployees.cs",
+              "RelativeDocumentMoniker": "AddEmployees.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\RestaurantManagement\\AddEmployees.cs",
+              "RelativeToolTip": "AddEmployees.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:41:53.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BL_Add.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_Add.cs",
+              "RelativeDocumentMoniker": "..\\BL\\BL_Add.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\BL\\BL_Add.cs",
+              "RelativeToolTip": "..\\BL\\BL_Add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:31:38.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DL_GetEmployees.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\DL\\DL_GetEmployees.cs",
+              "RelativeDocumentMoniker": "..\\DL\\DL_GetEmployees.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\DL\\DL_GetEmployees.cs",
+              "RelativeToolTip": "..\\DL\\DL_GetEmployees.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:53:00.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DL_Add.cs",
+              "DocumentMoniker": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\DL\\DL_Add.cs",
+              "RelativeDocumentMoniker": "..\\DL\\DL_Add.cs",
+              "ToolTip": "D:\\LTCSDL\\RestaurantManagement\\LTCSDL_RestaurantManagement\\DL\\DL_Add.cs",
+              "RelativeToolTip": "..\\DL\\DL_Add.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:28:15.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
